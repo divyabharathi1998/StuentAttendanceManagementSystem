@@ -1,1 +1,1 @@
-# StuentAttendanceManagementSystem
+# StudentAttendanceManagementSystem
